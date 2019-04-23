@@ -1,11 +1,19 @@
-var GLOBAL = {};
+  "Africa - aka, Kyle Ross": [
+    "Some days I wish I was gay.",var GLOBAL = {};
 GLOBAL.quoteUsed = '';
 GLOBAL.quote = '';
 GLOBAL.authorsArray = [];
 GLOBAL.authors = {
   "Africa - aka, Kyle Ross": [
-    "Some days I wish I was gay.",
-    "Today I vomited out of my ass",
+    "Some days I wish I was gay."],
+  "Africa - aka, Kyle Ross2": [
+    "Some days I wish I was gay."],
+      "Africa - aka, Kyle Ross3": [
+    "Some days I wish I was gay."],
+      "Africa - aka, Kyle Ross4": [
+    "Some days I wish I was gay."],
+      "Africa - aka, Kyle Ross5": [
+    "Today I vomited out of my ass"],
   ]
 }
 for (var author in GLOBAL.authors) {
