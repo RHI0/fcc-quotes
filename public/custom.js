@@ -1,5 +1,4 @@
-  "Africa - aka, Kyle Ross": [
-    "Some days I wish I was gay.",var GLOBAL = {};
+var GLOBAL = {};
 GLOBAL.quoteUsed = '';
 GLOBAL.quote = '';
 GLOBAL.authorsArray = [];
